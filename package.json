@@ -14,5 +14,6 @@
   "license": "MIT",
   "devDependencies": {
     "typescript": "^4.4.3"
-  }
+  },
+  "bin": "src/index.js"
 }
